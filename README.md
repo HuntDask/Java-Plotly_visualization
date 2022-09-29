@@ -1,7 +1,7 @@
 # Java-Plotly_Visualization
 In our project, we are asked Visualize bacteria data using JavaScript and Plotly.js to create an HTML site with different graphs and filtering. We created a HTML site so that we can further study and look at the many bacterias we are given in our starting data in order to better examine stasticis and our findings. We made a bar, gauge, and bubble chart along with our filter in order to help us see the data in a more presentable fashion. Link to the site created with JavaScript and Plotly is found in Deliverable 4.
 
-### Java/Plotly file, Challenge 12 folder holds all of the main files.
+### The Java/Plotly file has the Challenge 12 folder which holds all of these main files for the project:
 
 Index.html holds the html coding for the HTML site.
 
